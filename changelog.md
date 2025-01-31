@@ -1,7 +1,7 @@
 # Changelog 
 
 
-##v1.1.0
+## v1.1.0
 -Created new class
 -Created method for sout in new class
 
