@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        FirstClass.methodForSout("Heloworld!!!");
+        FirstClass.methodForSout("Helo world!!!");
     }
 }
